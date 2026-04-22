@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+}
+.top-box {
+  border: 2px solid #b6b64c;
+  border-radius: 12px;
+  padding: 10px 20px;
+  background: #fff;
+}
+.main-card {
+  background: #d9d9d9;
+  min-height: 100vh;
+  padding: 30px;
+}
+.action-btn {
+  min-width: 140px;
+}
